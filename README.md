@@ -1,8 +1,8 @@
 # Resources for Golang
 
-My own list  of useful Golang resources
+My own list of useful Golang resources
     
-## Database
+## Database drivers
 
 [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver conforming to the built-in database/sql interface
 
