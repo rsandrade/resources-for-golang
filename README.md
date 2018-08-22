@@ -12,5 +12,5 @@ My own list of useful Golang resources
 
 ## Courses & Books
 
-[A Linguagem Go](https://greatercommons.com/learn/golang-ptbr) - Este curso é a versão em português do original feito por Todd McLeod, o curso de Go mais assistido da web.
+[A Linguagem Go](https://greatercommons.com/learn/golang-ptbr) (pt-br) - Este curso é a versão em português do original feito por Todd McLeod, o curso de Go mais assistido da web.
  
